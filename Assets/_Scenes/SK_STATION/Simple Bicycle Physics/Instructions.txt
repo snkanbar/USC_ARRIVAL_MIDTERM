@@ -1,7 +1,0 @@
-Instructions:
-This package requires Animation Rigging package to be installed.
-Please go to Package Manager > Unity Registry > Install Animation Rigging Package
-
-Controls:
-Movement: WASD / Arrow Keys
-Speed Up: Press and Hold Left Shift
